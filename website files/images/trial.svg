@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Path_185" x="-15" y="-9" width="1950" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Nav_Bar" data-name="Nav Bar">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_185)">
+        <path id="Path_185-2" data-name="Path 185" d="M0,0H1920V118a17,17,0,0,1-17,17H10A10,10,0,0,1,0,125Z" fill="#fff"/>
+      </g>
+      <text id="Home" transform="translate(1007 76)" fill="#479f33" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Home</tspan></text>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="129" height="56" rx="28" transform="translate(1651 39)" fill="#479e33"/>
+      <text id="Login" transform="translate(1680 76)" fill="#fff" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Login</tspan></text>
+      <text id="About" transform="translate(1145 76)" fill="#479f33" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">About</tspan></text>
+      <text id="Our_Mission" data-name="Our Mission" transform="translate(1283 76)" fill="#479f33" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Our Mission</tspan></text>
+      <text id="Contact" transform="translate(1492 76)" fill="#479f33" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Contact</tspan></text>
+    </g>
+    <path id="Path_186" data-name="Path 186" d="M0,847.984C130,726.843-11.819,664.8,82.73,570.247s53.184,53.184,262.964-103.413,0-189.1,0-189.1L239.326,138.868" transform="translate(0 -27)" fill="#d63030" stroke="#707070" stroke-width="1"/>
+    <path id="Path_187" data-name="Path 187" d="M0,847.984C130,726.843-11.819,664.8,82.73,570.247s53.184,53.184,262.964-103.413,0-189.1,0-189.1L239.326,138.868" transform="translate(169 24)" fill="#ce6868" stroke="#707070" stroke-width="1"/>
+    <path id="Path_188" data-name="Path 188" d="M0,847.984C130,726.843-11.819,664.8,82.73,570.247s53.184,53.184,262.964-103.413,0-189.1,0-189.1L239.326,138.868" transform="translate(346 24)" fill="#dc8585" stroke="#707070" stroke-width="1"/>
+    <path id="Path_189" data-name="Path 189" d="M156.6,1080C564.338,847.984,871.621,963.215,871.621,963.215l372.286-156.6,325.011,124.1L1820.063,1080l-443.2-509.753L1007.535,782.982,65,1080,1217.315,782.982,1303,682.524l265.918,206.825L1326.637,1080" fill="#8a3030" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

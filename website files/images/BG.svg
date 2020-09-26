@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1102.956" height="541.493" viewBox="0 0 1102.956 541.493">
+  <defs>
+    <filter id="Rectangle_28" x="651.033" y="156.373" width="374.098" height="264.692" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.471"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_29" x="661.391" y="177.613" width="353.813" height="228.737" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#4c4c4c" flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_168" x="686.9" y="397.476" width="73.636" height="21.333" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-color="#565353" flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_169" x="922.384" y="397.805" width="68.191" height="21.457" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-4"/>
+      <feFlood flood-color="#565353" flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Base" x="613.349" y="442.158" width="449.372" height="36.306" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.89"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_163" x="623.15" y="405.305" width="430.942" height="52.136" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-6"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_165" x="793.736" y="440.842" width="94.307" height="12.835" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_30" x="787.737" y="451.684" width="102.172" height="8.102" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="BG" transform="translate(-1.328 136.999)">
+    <g id="Group_12" data-name="Group 12" transform="translate(1.53 -76.99)">
+      <path id="Path_210" data-name="Path 210" d="M0,0S17.7,553.42,53.722,660.542,265.639,813.086,265.639,813.086H0Z" transform="translate(813.156) rotate(90)" fill="#eaa73e" opacity="0.04"/>
+      <path id="Path_208" data-name="Path 208" d="M0,0S14.377,402.237,43.628,480.1s172.1,110.872,172.1,110.872H0Z" transform="translate(591.037 0) rotate(90)" fill="#eaa73e" opacity="0.09"/>
+      <path id="Path_207" data-name="Path 207" d="M0,0S9.246,267.712,30.48,326.953s145.96,73.96,145.96,73.96H0Z" transform="translate(400.983 0) rotate(90)" fill="#eaa73e" opacity="0.12"/>
+      <path id="Path_206" data-name="Path 206" d="M0,0S8.351,191.02,22.986,227.936s98.248,47.535,98.248,47.535H0Z" transform="translate(275.541 0) rotate(90)" fill="#eaa73e" opacity="0.17"/>
+      <path id="Path_199" data-name="Path 199" d="M0,0S1.044,120.775,12.172,149.378s64.955,25.873,64.955,25.873H0Z" transform="translate(175.321 0) rotate(90)" fill="#eaa73e" opacity="0.28"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(264.543 131.477)">
+      <path id="Path_211" data-name="Path 211" d="M0,0S16.88,570.592,55.043,682.042,272.172,839.551,272.172,839.551H0Z" transform="translate(0 272.172) rotate(-90)" fill="#479e33" opacity="0.04"/>
+      <path id="Path_208-2" data-name="Path 208" d="M0,0S12.991,445.034,42.361,531.96s167.1,122.849,167.1,122.849H0Z" transform="translate(184.742 273.017) rotate(-90)" fill="#479e33" opacity="0.09"/>
+      <path id="Path_207-2" data-name="Path 207" d="M0,0S8.727,295.834,31.576,361.194s139.743,83.029,139.743,83.029H0Z" transform="translate(395.327 273.006) rotate(-90)" fill="#479e33" opacity="0.12"/>
+      <path id="Path_206-2" data-name="Path 206" d="M0,0S6.589,208.192,22.319,252.56s95.4,52.67,95.4,52.67H0Z" transform="translate(534.32 273.006) rotate(-90)" fill="#479e33" opacity="0.17"/>
+      <path id="Path_199-2" data-name="Path 199" d="M0,0S1.956,132.479,11.818,165.515s63.07,28.668,63.07,28.668H0Z" transform="translate(645.367 273.006) rotate(-90)" fill="#479e33" opacity="0.28"/>
+    </g>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="1102" height="60" transform="translate(1.328 -136.999)" fill="#fff"/>
+    <g id="Laptop_-_Vector_Illustration" data-name="Laptop - Vector Illustration" transform="translate(-292.152 -221.987)">
+      <g id="Screen_Top" data-name="Screen + Top" transform="translate(956.513 253.361)">
+        <g transform="matrix(1, 0, 0, 1, -663.03, -168.37)" filter="url(#Rectangle_28)">
+          <rect id="Rectangle_28-2" data-name="Rectangle 28" width="350.098" height="240.692" rx="15" transform="translate(663.03 168.37)" fill="rgba(33,33,33,0.9)"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -663.03, -168.37)" filter="url(#Rectangle_29)">
+          <rect id="Rectangle_29-2" data-name="Rectangle 29" width="335.813" height="210.737" transform="translate(670.39 183.61)" fill="#fff"/>
+        </g>
+        <circle id="Webcam" cx="3.416" cy="3.416" r="3.416" transform="translate(175.527 4.204)" fill="rgba(95,95,95,0.5)"/>
+        <circle id="Webcam-2" data-name="Webcam" cx="1.314" cy="1.314" r="1.314" transform="translate(177.629 6.306)" fill="#2b2b2b"/>
+      </g>
+      <g id="Hinges" transform="translate(986.38 490.464)">
+        <g transform="matrix(1, 0, 0, 1, -692.9, -405.48)" filter="url(#Path_168)">
+          <path id="Path_168-2" data-name="Path 168" d="M739.292,2104.719l-1.534,9.333h61.636l-.974-9.333Z" transform="translate(-44.86 -1699.24)" fill="#efeeee"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -692.9, -405.48)" filter="url(#Path_169)">
+          <path id="Path_169-2" data-name="Path 169" d="M739.157,2104.719l-1.4,9.457H793.95l-.888-9.457Z" transform="translate(190.63 -1698.91)" fill="#efeeee"/>
+        </g>
+      </g>
+      <g id="Keypad_Down" data-name="Keypad + Down" transform="translate(921.829 498.294)">
+        <g transform="matrix(1, 0, 0, 1, -628.35, -413.31)" filter="url(#Base)">
+          <path id="Base-2" data-name="Base" d="M.87,0H418.5a.87.87,0,0,1,.87.87v0a5.437,5.437,0,0,1-5.437,5.437H5.437A5.437,5.437,0,0,1,0,.87v0A.87.87,0,0,1,.87,0Z" transform="translate(628.35 452.16)" fill="#dedede"/>
+        </g>
+        <g id="Mousepad_Down" data-name="Mousepad + Down" transform="translate(0.802 0)">
+          <g transform="matrix(1, 0, 0, 1, -629.15, -413.31)" filter="url(#Path_163)">
+            <path id="Path_163-2" data-name="Path 163" d="M755.184,2005.992l-34.036,40.136H1140.09l-34.413-40.136Z" transform="translate(-92 -1592.69)" fill="#efeeee"/>
+          </g>
+          <path id="Path_162" data-name="Path 162" d="M755.184,2005.992l-34.036,40.136H1140.09l-34.413-40.136Z" transform="translate(-720.241 -2005.085)" fill="none"/>
+          <g id="Mousepad" transform="translate(166.926 28.536)">
+            <g transform="matrix(1, 0, 0, 1, -796.08, -441.84)" filter="url(#Path_165)">
+              <path id="Path_165-2" data-name="Path 165" d="M360.432,1468.455l-4.786,8.835h89.583l-5.313-8.835Z" transform="translate(440.43 -1026.61)" fill="#dedede" stroke="rgba(112,112,112,0.08)" stroke-width="1"/>
+            </g>
+            <line id="Line_6" data-name="Line 6" y2="2.722" transform="translate(44.399 5.465)" fill="none" stroke="#8e8e8e" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g id="Keypad" transform="translate(32.859 1.33)">
+          <path id="Path_164" data-name="Path 164" d="M66.455,1419s-16.061,18.966-17.236,20.69-.633.742-.633.742H403.4l-16.849-21.921Z" transform="translate(-48.462 -1416.477)" fill="#2c2c2c"/>
+          <line id="Line_1" data-name="Line 1" x2="337.776" y2="0.31" transform="translate(13.535 5.516)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_166" data-name="Path 166" d="M0,5.183l340.872-.208" transform="translate(10.573 4.542)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_209" data-name="Path 209" d="M-5.656-.675,337.852.186" transform="translate(11.882 14.477)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_167" data-name="Path 167" d="M0,3.278l362.471-.6" transform="translate(0.125 16.614)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_7" data-name="Line 7" x1="7.977" y2="23.847" transform="translate(98.946 1.35)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_21" data-name="Line 21" x1="5.239" y2="24.83" transform="translate(122.8 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_24" data-name="Line 24" x1="2.917" y2="18.884" transform="translate(135.435 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_26" data-name="Line 26" x1="1.788" y2="19.524" transform="translate(156.207 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_30" data-name="Line 30" x1="0.72" y2="19.524" transform="translate(167.097 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_31" data-name="Line 31" x2="0.307" y2="19.024" transform="translate(179.112 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_29" data-name="Line 29" x2="1.72" y2="19.524" transform="translate(191.001 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_27" data-name="Line 27" x2="1.992" y2="18.617" transform="translate(199.35 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_41" data-name="Line 41" x2="1.992" y2="18.617" transform="translate(210.912 0.893)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_28" data-name="Line 28" x1="2.856" y2="19.524" transform="translate(145.318 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_192" data-name="Path 192" d="M0,0,2.392,17.272" transform="translate(222.344 2.332)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_22" data-name="Line 22" x1="5.844" y2="25.867" transform="translate(111.391 0.368)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_23" data-name="Line 23" x2="5.993" y2="24.466" transform="translate(231.48 0)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_19" data-name="Line 19" x2="6.852" y2="24.466" transform="translate(240.865 0)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_8" data-name="Line 8" x1="13.483" y2="23.854" transform="translate(45.014 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_14" data-name="Line 14" x2="15.224" y2="23.081" transform="translate(295.009 1.35)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_9" data-name="Line 9" x1="12.551" y2="18.051" transform="translate(36.423 1.841)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_214" data-name="Path 214" d="M9.631-.007,0,12.3" transform="translate(27.016 1.841)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_36" data-name="Line 36" x1="9.334" y2="12.446" transform="translate(18.048 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_212" data-name="Path 212" d="M-.521-.711,11.816,17.268" transform="translate(304.103 2.17)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <path id="Path_213" data-name="Path 213" d="M-.475-.918,8.873,11.974" transform="translate(314.541 2.163)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_37" data-name="Line 37" x2="10.292" y2="14.28" transform="translate(323.633 0.382)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_10" data-name="Line 10" x1="9.182" y2="23.847" transform="translate(85.463 1.35)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_18" data-name="Line 18" x2="8.297" y2="23.854" transform="translate(251.407 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_11" data-name="Line 11" x1="11.409" y2="23.854" transform="translate(70.943 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_17" data-name="Line 17" x2="11.409" y2="23.854" transform="translate(262.816 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_12" data-name="Line 12" x1="11.409" y2="23.854" transform="translate(58.497 1.343)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_16" data-name="Line 16" x2="11.786" y2="23.081" transform="translate(274.874 1.35)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_15" data-name="Line 15" x2="13.259" y2="23.081" transform="translate(286.66 1.35)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_38" data-name="Line 38" x2="3.438" y2="4.911" transform="translate(323.492 19.52)" fill="none" stroke="#efeeee" stroke-width="2"/>
+          <line id="Line_40" data-name="Line 40" x2="13.259" transform="translate(324.965 21.976)" fill="none" stroke="#efeeee" stroke-width="1"/>
+          <line id="Line_39" data-name="Line 39" x2="3.438" y2="4.911" transform="translate(336.26 19.52)" fill="none" stroke="#efeeee" stroke-width="2"/>
+        </g>
+        <g id="Bend_LED_light" data-name="Bend + LED light" transform="translate(162.388 39.378)">
+          <g transform="matrix(1, 0, 0, 1, -790.74, -452.68)" filter="url(#Rectangle_30)">
+            <path id="Rectangle_30-2" data-name="Rectangle 30" d="M0,0H96.172a0,0,0,0,1,0,0V0a2.1,2.1,0,0,1-2.1,2.1H2.1A2.1,2.1,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(790.74 452.68)" fill="#efeeee"/>
+          </g>
+          <path id="Path_170" data-name="Path 170" d="M0,0H11.3" transform="translate(43.69 2.589)" fill="none" stroke="rgba(127,127,127,0.7)" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
